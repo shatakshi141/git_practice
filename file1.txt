@@ -1,2 +1,2 @@
-line 1 in master new version
-line 1 in branch
+line 1 in from branch2 
+line 2
